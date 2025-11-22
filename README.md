@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi Everyone! 👋
 
-<!--
-**abinaya-EE-0504/abinaya-EE-0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Abinaya Thandayuthapani, a graduating student from San Jose State University specializing in digital logic circuits with a strong focus on VLSI and semiconductor design.
 
-Here are some ideas to get you started:
+### About Me
+- ⚡ Passionate about designing and verifying digital systems using Verilog and SystemVerilog.
+- Interested in power electronics, including MOSFET and BJT device technologies.
+- Open to opportunities in any electronic engineering field, eager to learn and contribute.
+- Skilled in Python programming for automation and hardware project support.
+- Always looking to expand my knowledge in power and semiconductor device design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🔭 Showcasing Verilog-based digital design projects, power electronics concepts, and more.
+- Explore my repositories for detailed project work and experiments.
+
+### Let’s Connect
+Feel free to reach out or collaborate!  
+📫 Email: [abinaya.t.0504@gmail.com](mailto:abinaya.t.0504@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/abinaya-thandayuthapani-08296293/](https://www.linkedin.com/in/abinaya-thandayuthapani-08296293/)  
+😄 Pronouns: call me "Abi"  
+👯 I’m currently seeking internship opportunities while continuing my studies.  
+🌱 I’m currently learning Verilog coding and Python for automation.  
+📫 How to reach me: LinkedIn or email.
